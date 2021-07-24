@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    box-sizing: border-box;
+    font-family:'Roboto', sans-serif;
+}
+
+nav a{
+    border: none;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-family:'Roboto', sans-serif;
+    color: black;
+}
+
+ .book span{
+    letter-spacing: 1px;
+    padding: 3px 20px;
+    margin: 0px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    margin: 0;
+    background: #1c56a2 !important;
+ }
+
+ .main-content{
+     background-image: url("https://medicrew.com.au/wp-content/uploads/2019/08/Medicrew_Medical_Centre_Home_03.jpg");
+     background-position: top center;
+     background-size: cover;
+     height: 50vh;
+ }
+
+ .corona-section{
+     color: white;
+     font-weight: 700;
+     text-align: center;
+     background-color: #ad2f2d!important;
+     padding: 48px 0;
+ }
+.c-width{
+    width: 100%;
+    
+}
+ .section2{
+    
+    padding: 48px 0px;
+    /* padding-left: 230px; */
+    text-align:center;
+    color: white;
+    background-color: #101a40!important;
+   
+ }
+ .card-title{
+    
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-size: 14px;
+ }
+ .card-img{
+    width: max-content;
+     height: 34px;
+ }
+ .card-info{
+     text-align: start;
+ }
+ .card h4, h2{
+    font-weight: 300;
+ }
+.book1 span{
+    
+    background: #00aeef !important;
+}
+.book2 span{
+    background: #ad2f2d !important;
+}
+ 
